@@ -1,0 +1,25 @@
+asgiref==3.2.10
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+Django==3.1.1
+djangorestframework==3.11.1
+docopt==0.6.2
+future==0.18.2
+idna==2.10
+joblib==0.16.0
+nltk==3.2.5
+numpy==1.18.5
+Pillow==7.2.0
+pipreqs==0.4.10
+pytz==2020.1
+PyYAML==5.3.1
+regex==2020.7.14
+requests==2.24.0
+six==1.15.0
+sqlparse==0.3.1
+torch @ file:///E:/Project%20Software/torch-1.6.0%2Bcu101-cp37-cp37m-win_amd64.whl
+torchvision @ file:///E:/Project%20Software/torchvision-0.5.0-cp37-cp37m-win_amd64.whl
+tqdm==4.48.2
+urllib3==1.25.10
+yarg==0.1.9
